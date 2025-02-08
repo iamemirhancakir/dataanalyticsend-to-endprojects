@@ -88,19 +88,6 @@ git clone https://github.com/iamemirhancakir/dataanalyticsend-to-endprojects.git
 
 - ``hotel_booking` dosyasındaki örnek sorguları MySQL Workbench veya başka bir SQL aracıyla çalıştırabilirsiniz.
 
-## 📊 Projeden Görseller
-
-### En Çok Satan Kategoriler (Python)
-
-![En Çok Satan Kategoriler](C:/Users/lenovo/OneDrive/Desktop/dataanalyticsproject/Visuals/category_sales_plotly.png)
-
-### PowerBI Dashboard
-
-![PowerBI](C:/Users/lenovo/OneDrive/Desktop/dataanalyticsproject/Visuals/powerBIdashboard.png)
-
-### Excel Dashboard
-
-![Excel](C:/Users/lenovo/OneDrive/Desktop/dataanalyticsproject/Visuals/exceldashboard.png)
 
 ## 🛠️ Kullanılan Teknolojiler
 
